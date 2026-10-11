@@ -2,11 +2,8 @@
 
 ## Seznam členů
 
-- Martin Landa (landamar)
-- Jaroslav Sedina (GitHub uživatel)
-- Ondrej Pesek
-- Petr Skocdopole
-- ...
+- Eliška Balková (elibalkova-ux)
+
 
 ## Zadání
 
