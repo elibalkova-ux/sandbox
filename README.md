@@ -3,6 +3,7 @@
 ## Seznam členů
 
 - Eliška Balková (elibalkova-ux)
+- Josefína Luxová (josefinaluxova)
 
 
 ## Zadání
