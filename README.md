@@ -7,10 +7,10 @@
 
 ## Zadání
 
-Odstavec popisující váš projekt (účel, předpokládané technické řešení,
-cíle projektu). Popis by měl být dostatečně detailní.
+Cílem projektu je vytvořit verzi geografické hry inspirovnou známou hrou GeoGuessr. Hráči se v každém kole zobrazí fotografie náhodně vybraného místa a jeho úkolem bude určit, kde se dané místo nachází. Svůj odhad ve hře zaznamená kliknutím na interaktivní mapu. Program následně získá zeměpisné souřadnice hráčova odhadu a porovná je se skutečnými souřadnicemi dané lokality. Na základě vypočtené vzdálenosti (odhad-skutečná lokalita) přidělí hráči bodové ohodnocení.
 
-Cíle projektu mohou být prezentovány ve formě bodů:
+
+Cíle projektu:
 
 - Cíl č.1
 - Cíl č.2
