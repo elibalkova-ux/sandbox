@@ -11,10 +11,9 @@ Cílem projektu je vytvořit verzi geografické hry inspirovnou známou hrou Geo
 
 
 Cíle projektu:
-
-- vytvoření grafického rozhraní hry
-- vytvoření interaktivní mapy
 - vytvoření databáze fotek obsahující souřadnice lokalit
+- vytvoření interaktivní mapy
+- vytvoření grafického rozhraní hry
 - získávat a zpracovávat souřadnice odhadu hráče
 - implementovat výpočet vzdálenosti mezi odhadovanou a skutečnou polohou
 - vytvořit bodovací systém 
